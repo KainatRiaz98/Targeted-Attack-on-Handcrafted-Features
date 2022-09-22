@@ -48,6 +48,7 @@ https://user-images.githubusercontent.com/88194731/191845363-2231c5a4-6032-44bc-
 - PCV
 - torch
 - visvis
+- BOW Matlab Code
 # Formatting
 
 1. Folder1: Base Images
