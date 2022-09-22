@@ -1,8 +1,7 @@
 # Targeted-Attack-on-Handcrafted-Features
 We propose a novel targeted adversarial attack for multiple well-known handcrafted pipelines and
 datasets. Our attack is able to match an image with any given target image which can be completely
-different from the original image. Our approach provides a trade-off between effectiveness and imper-
-ceptibility, and outperforms the baselines on both metrics
+different from the original image. Our approach provides a trade-off between effectiveness and imperceptibility, and outperforms the baselines on both metrics
 
 # Can you guess the best matching image? 
 
