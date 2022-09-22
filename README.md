@@ -42,3 +42,54 @@ https://user-images.githubusercontent.com/88194731/191844614-73a7e516-948b-43fb-
 
 https://user-images.githubusercontent.com/88194731/191845363-2231c5a4-6032-44bc-bcc3-a331dd3230e7.mp4
 
+# Requirments
+- adversarial-robustness-toolbox 1.9.1
+- opencv-contrib-python 3.4.2.17
+- PCV
+- torch
+- visvis
+# Formatting
+
+1. Folder1: Base Images
+    - fallbase.jpg
+    - springbase.jpg
+    - summerbase.jpg
+    - winterbase.jpg
+2. Folder2: Target Classes
+    - Fall
+       - 1.jpg
+       - 2.jpg
+       - ... 
+    - Spring
+      - 1.jpg
+      - 2.jpg
+      - ... 
+    - Summer
+      - 1.jpg
+      - 2.jpg
+      - ... 
+    - Winter
+      - 1.jpg
+      - 2.jpg
+      - ... 
+ 3. Folder3: Save Folder
+    - Fall
+       - 1.jpg
+       - 2.jpg
+       - ... 
+    - Spring
+      - 1.jpg
+      - 2.jpg
+      - ... 
+    - Summer
+      - 1.jpg
+      - 2.jpg
+      - ... 
+    - Winter
+      - 1.jpg
+      - 2.jpg
+      - ... 
+
+
+
+
